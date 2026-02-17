@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# System files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
